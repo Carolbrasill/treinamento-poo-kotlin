@@ -1,10 +1,11 @@
-# Treinamento WorldSkills - Ocupação 08 (Desenvolvimento de Aplicativos Móveis)
+# Treinamento WorldSkills 
+
 <p align="center">
-  <img src="https://worldskills.org/assets/images/logo.svg" alt="WorldSkills Logo" width="300"/>
+  <img src="https://raw.githubusercontent.com/worldskills/worldskills.github.io/master/assets/images/logo.png" alt="WorldSkills Logo" width="220"/>
 </p>
 
 ## Semana 02: Programação Orientada a Objetos Básica em Kotlin
-Este repositório contém a resolução completa das **20 atividades práticas e conceituais** da apostila de treinamento de POO, seguindo as diretrizes de Clean Code, Imutabilidade e Blindagem de Estado exigidas em competições oficiais.
+Este repositório contém a resolução dividida e estruturada de todas as **20 atividades práticas e conceituais** da apostila de treinamento de POO.
 
 ## 📁 Estrutura do Projeto (Arquivos Separados por Atividade)
 Os códigos-fonte foram componentizados e distribuídos em arquivos individuais dentro do diretório principal para garantir o Princípio da Responsabilidade Única (SRP):
