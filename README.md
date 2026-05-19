@@ -1,8 +1,7 @@
-# Treinamento WorldSkills 
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/worldskills/worldskills.github.io/master/assets/images/logo.png" alt="WorldSkills Logo" width="220"/>
+  <img src="https://vectorseek.com/wp-content/uploads/2023/08/WorldSkills-Logo-Vector.svg-.png" alt="WorldSkills Logo" width="250"/>
 </p>
+
+<h1 align="center"> WorldsSkills - #23 Robótica Móvel </h1>
 
 ## Semana 02: Programação Orientada a Objetos Básica em Kotlin
 Este repositório contém a resolução dividida e estruturada de todas as **20 atividades práticas e conceituais** da apostila de treinamento de POO.
